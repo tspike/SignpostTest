@@ -79,6 +79,7 @@
 				CEB0F5AA27179AF1000E5B9A /* SignpostTestTests */,
 				CEB0F5B527179AF2000E5B9A /* SignpostTestUITests */,
 				CEB0F59727179ADF000E5B9A /* Products */,
+				CEEC1A882718CEEF00E5F4A6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +129,13 @@
 				CEB0F5B827179AF2000E5B9A /* Info.plist */,
 			);
 			path = SignpostTestUITests;
+			sourceTree = "<group>";
+		};
+		CEEC1A882718CEEF00E5F4A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -422,7 +430,7 @@
 				DEVELOPMENT_TEAM = RJ565X89FS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SignpostTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -444,7 +452,7 @@
 				DEVELOPMENT_TEAM = RJ565X89FS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SignpostTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -464,7 +472,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RJ565X89FS;
 				INFOPLIST_FILE = SignpostTestTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -486,7 +494,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RJ565X89FS;
 				INFOPLIST_FILE = SignpostTestTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
